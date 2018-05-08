@@ -1,5 +1,7 @@
 ###
 ### scss
 
-https://github.com/takagotch/scss/blob/master/README.md
+
+https://github.com/takagotch/scss
+
 
