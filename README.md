@@ -1,4 +1,4 @@
-### scss
+### Scss
 ---
 
 https://github.com/takagotch/scss
